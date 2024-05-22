@@ -3,3 +3,5 @@ This is the game developed using pygame module of the python that helps to find 
 make sure to install pygame module
 pip install pygame (in linux)
 run the reaction_time.py from terminal or any ide
+![Screenshot from 2024-05-22 22-39-38](https://github.com/an-ash-iith/project-reaction-time-game/assets/106005097/c44cc659-804c-4dd1-bdb1-16f9e4178edb)
+![Screenshot from 2024-05-22 22-41-02](https://github.com/an-ash-iith/project-reaction-time-game/assets/106005097/4ca75b24-0d92-4d92-bc5f-7e0c8811b0cb)
